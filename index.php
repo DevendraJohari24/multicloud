@@ -6,7 +6,7 @@ welcome to lw cloud
 <?php
 
 
-print 'ifconfig' ;
+print 'sudo ifconfig' ;
 
 
 ?>
